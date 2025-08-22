@@ -166,7 +166,8 @@ Para ver el informe completo y detallado de este trabajo, accede al siguiente ar
 
 [📄 Informe Completo (PDF)](<resources/Data Mining - Informe Final - Grupo 3.pdf>)
 
-[💻 Presentacion](<resources/Minería de Datos Aplicada al Análisis de Delitos en Los Ángeles (2020-2025).pptx.pdf>)
+[💻 Slides](resources/Analisis_de_Delitos_en_Los_Angeles_(2020-2025).pdf)
+
 ## Licencia
 
 Este trabajo y los contenidos asociados (código fuente, gráficos, interpretaciones y documentación) han sido desarrollados con fines académicos y/o investigativos en el marco del proyecto de análisis de modelos de clasificación.

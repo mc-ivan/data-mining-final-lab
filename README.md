@@ -166,7 +166,7 @@ Para ver el informe completo y detallado de este trabajo, accede al siguiente ar
 
 [📄 Informe Completo (PDF)](<resources/Data Mining - Informe Final - Grupo 3.pdf>)
 
-[💻 Slides](resources/Analisis_de_Delitos_en_Los_Angeles_(2020-2025).pdf)
+[💻 Slides](resources/Analisis_de_Delitos_en_Los_Angeles_2020-2025.pdf)
 
 ## Licencia
 
